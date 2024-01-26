@@ -146,3 +146,4 @@ on property:vold.decrypt=trigger_restart_framework
 
 
 import /init.recovery.qcom_decrypt.rc
+symlink /dev/block/platform/soc/${ro.boot.bootdevice} /dev/block/bootdevice
