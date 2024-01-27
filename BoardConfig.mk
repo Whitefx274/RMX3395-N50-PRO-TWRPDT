@@ -107,7 +107,7 @@ TARGET_USES_MKE2FS := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TW_MAX_BRIGHTNESS := 2047
 TW_DEFAULT_BRIGHTNESS := 1200
-TW_DEVICE_VERSION := AKS
+TW_DEVICE_VERSION := Brar
 TW_INCLUDE_RESETPROP := true
 TW_THEME := portrait_hdpi
 
